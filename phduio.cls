@@ -456,7 +456,7 @@
 
 \newlength{\thumbwidth}
 \newlength{\thumbheight}
-\setlength{\thumbwidth}{1cm}
+\setlength{\thumbwidth}{0.5cm}
 
 \tikzset
 {
