@@ -10,7 +10,7 @@ To do:
 - Write my thesis.
 - Make better mistakes. 
 
-To view the pdf template please go to my [post](https://www.glacier-hub.com/posts/2021-02-27-phdau-article-based-latextemplate)
+[pdf preview](phdau_article_based.pdf)
 
 
 Modified from :
