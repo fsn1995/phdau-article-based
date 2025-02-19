@@ -1,14 +1,4 @@
-Now it's still just a draft template. Will keep updating it. Tested in overleaf. 
-
-- Changed logo to AU and deep purple. Can be easily modified. 
-- Possible to change paper size set to A4, but by default is the book format (17 x 24 cm) which looks better.
-- Title page resize is disabled in case of longer title is needed.
-- Mendeley exported .bib files save "month" not in integer, therefore a preamble is inserted. 
-
-To do:
-- Test more.
-- Write my thesis.
-- Make better mistakes. 
+Please refer to the latest repo here: [https://github.com/AU-ENVS-PhD/phdau-article-based](https://github.com/AU-ENVS-PhD/phdau-article-based)
 
 [pdf preview](phdau_article_based.pdf)
 
